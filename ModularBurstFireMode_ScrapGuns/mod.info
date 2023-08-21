@@ -1,0 +1,8 @@
+require=ModularBurstFireMode,ScrapGuns(new version)
+id=ModularBurstFireMode_ScrapGuns
+name=Firearms Burst-Fire: Scrap Guns
+description=Add burst mode to scrap guns.
+versionMin=41.78
+poster=poster.png
+icon=icon.png
+authors=Poltergeist

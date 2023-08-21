@@ -1,0 +1,38 @@
+{
+    "$schema": "https://raw.githubusercontent.com/Konijima/project-zomboid-studio/master/pzstudio.schema.json",
+    "title": "Firearms Burst-Fire",
+    "authors": [
+        "Poltergeist"
+    ],
+    "workshop": {
+        "id": 2988520556,
+        "visibility": "public",
+        "tags": [
+            "Build 41",
+            "Interface",
+            "Weapons"
+        ],
+        "excludes": []
+    },
+    "mods": {
+        "ModularBurstFireMode": {
+            "name": "Firearms Burst-Fire",
+            "description": "Support for custom weapon burst modes.",
+            "posters": [
+                "poster.png"
+            ],
+            "icon": "icon.png",
+            "versionMin": "41.78"
+        },
+        "ModularBurstFireMode_ScrapGuns": {
+            "name": "Firearms Burst-Fire: Scrap Guns",
+            "description": "Add burst mode to scrap guns.",
+            "posters": [
+                "poster.png"
+            ],
+            "icon": "icon.png",
+            "require": "ModularBurstFireMode,ScrapGuns(new version)",
+            "versionMin": "41.78"
+        }
+    }
+}

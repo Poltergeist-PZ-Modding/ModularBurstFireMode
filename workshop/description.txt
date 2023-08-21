@@ -1,0 +1,36 @@
+This mod adds a simple way to add burst-fire mode to weapons, configurable per weapon instance. You can test it with the scrap guns below, have fun :)
+
+[code][h2]< Info >[/h2]
+This mod works when the weapon is set in FireMode "modBurst". This means you need to add this option to the weapon script.
+
+Options are saved in the weapon data, this means every weapon can be customized to have it's own settings. If an option is not set, then the default value will be used.
+
+Option Values:
+modBurst_Shots: Number of shots for the burst. (Default is 3)
+modBurst_Speed: Speed to use for the shooting animation. (Default is 4, same as Auto fire mode)
+modBurst_Delay: Applied delay after the burst. (Default is 10)
+modBurst_AnimFireMode: Used to change the player variable FireMode to determine animation selection. (Default is Auto)
+
+not added
+option to customize whether or not the shots fired counter is reset when you release the trigger.
+[/code]
+[code][h2]Scrap Guns (submod)[/h2]
+[url=https://steamcommunity.com/workshop/filedetails/?id=2125659488]requires: Scrap Guns[/url]
+Weapons with burst-fire mode: SGuns.SSMGUnfolded, SGuns.SSMGFolded, SGuns.SAR, SGuns.SARB, SGuns.ScrapSMG, SGuns.ScrapGatling
+[/code]
+[code]
+[h2]Mods using burst-fire[/h2]
+[list]
+[*] [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3038681361]Ash's Advanced Warfare[/url]
+[/list]
+[/code]
+[code][url=https://discord.gg/SReMnbV4V7][img]https://raw.githubusercontent.com/Poltergeistzx/Project-Zomboid/main/images/PZWorkshopBanner.png[/img][/url]
+[url=https://ko-fi.com/P5P6JASON][img]https://raw.githubusercontent.com/Poltergeistzx/Project-Zomboid/main/images/Ko-fi-01.png[/img][/url]
+You can report issues on [url=https://github.com/Poltergeist-PZ-Modding/ModularBurstFireMode]GitHub[/url] or contact me on discord (poltergeist_ix) you can find me on the official Project Zomboid server or PZ Modding Community server.[/code]
+[code][table]
+[h3]Mod info[/h3]
+[tr][td]	Permissions:	[/td][td]	[url=http://theindiestone.com/forums/index.php/topic/2530-mod-permissions/?p=36478]Ask for Permission[/url]	[/td][/tr]
+[tr][td]	Workshop ID:	[/td][td]	2988520556	[/td][/tr]
+[tr][td]	Mod ID:	[/td][td]	ModularBurstFireMode	[/td][/tr]
+[tr][td]	Mod ID:	[/td][td]	ModularBurstFireMode_ScrapGuns	[/td][/tr]
+[/table][/code]

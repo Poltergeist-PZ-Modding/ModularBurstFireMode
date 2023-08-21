@@ -1,0 +1,7 @@
+id=ModularBurstFireMode
+name=Firearms Burst-Fire
+description=Support for custom weapon burst modes.
+versionMin=41.78
+poster=poster.png
+icon=icon.png
+authors=Poltergeist
