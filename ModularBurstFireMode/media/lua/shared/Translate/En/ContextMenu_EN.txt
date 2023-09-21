@@ -1,2 +1,2 @@
 --
-ContextMenu_FireMode_modBurst = "Burst Mode",
+ContextMenu_FireMode_modBurst = "Burst-fire",
