@@ -19,6 +19,7 @@
             "name": "Firearms Burst-Fire",
             "description": "Support for custom weapon burst modes.",
             "posters": [
+                "poster1.png",
                 "poster.png"
             ],
             "icon": "icon.png",
