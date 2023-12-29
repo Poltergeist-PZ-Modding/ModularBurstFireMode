@@ -16,7 +16,7 @@ function Burst.OnWeaponSwingHitPoint(character,weapon)
 end
 
 function Burst.OnPlayerAttackFinished(character,weapon)
-    if weapon:getFireMode() ~= "modBurst" then return end
+    if weapon == nil or weapon:getFireMode() ~= "modBurst" then return end
     local data = weapon:getModData()
 
     if data.modBurst_ShotsFired > (data.modBurst_Shots or 3) then
