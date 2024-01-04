@@ -1,6 +1,6 @@
-This mod adds a simple way to add burst-fire mode to weapons, configurable per weapon instance. You can test it with the scrap guns below, have fun :)
-
-[code][h2]< Info >[/h2]
+[code][h2]Description[/h2]
+This mod adds a simple way to add burst-fire mode to weapons, configurable per weapon instance. You can test it with the scrap guns below, have fun :)[/code]
+[code][h2]Details[/h2]
 This mod works when the weapon is set in FireMode "modBurst". This means you need to add this option to the weapon script.
 
 Options are saved in the weapon data, this means every weapon can be customized to have it's own settings. If an option is not set, then the default value will be used.
@@ -24,9 +24,8 @@ Weapons with burst-fire mode: SGuns.SSMGUnfolded, SGuns.SSMGFolded, SGuns.SAR, S
 [*] [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3038681361]Ash's Advanced Warfare[/url]
 [/list]
 [/code]
-[code][url=https://discord.gg/SReMnbV4V7][img]https://raw.githubusercontent.com/Poltergeistzx/Project-Zomboid/main/images/PZWorkshopBanner.png[/img][/url]
-[url=https://ko-fi.com/P5P6JASON][img]https://raw.githubusercontent.com/Poltergeistzx/Project-Zomboid/main/images/Ko-fi-01.png[/img][/url]
-You can report issues on [url=https://github.com/Poltergeist-PZ-Modding/ModularBurstFireMode]GitHub[/url] or contact me on discord (poltergeist_ix) you can find me on the official Project Zomboid server or PZ Modding Community server.[/code]
+[code][url=https://steamcommunity.com:/linkfilter/?u=github.com/Poltergeist-PZ-Modding][img]https://raw.githubusercontent.com/Poltergeist-ix/.images/main/polt-mod-icon-1.png[/img][/url][url=https://steamcommunity.com:/linkfilter/?u=ko-fi.com/poltergeist89261][img]https://raw.githubusercontent.com/Poltergeist-ix/.images/main/ko-fi-fire-2-100.gif[/img][/url][url=https://steamcommunity.com:/linkfilter/?u=theindiestone.com/forums/index.php/topic/2530-mod-permissions/?p=36478][img]https://raw.githubusercontent.com/Poltergeist-ix/.images/main/tis-mod-permissions-3-ask-for-permission-100.png[/img][/url][url=https://steamcommunity.com:/linkfilter/?u=discord.gg/SReMnbV4V7][img]https://raw.githubusercontent.com/Poltergeist-ix/.images/main/PZWorkshopCommBanner-1.png[/img][/url]
+Feel free to report any issues or provide feedback on [url=https://steamcommunity.com:/linkfilter/?u=github.com/Poltergeist-PZ-Modding/ModularBurstFireMode/issues]GitHub[/url]. Alternatively, you can contact me on discord as poltergeist_ix. Please note that I may not respond to messages immediately.[/code]
 [code][table]
 [h3]Mod info[/h3]
 [tr][td]	Permissions:	[/td][td]	[url=http://theindiestone.com/forums/index.php/topic/2530-mod-permissions/?p=36478]Ask for Permission[/url]	[/td][/tr]
